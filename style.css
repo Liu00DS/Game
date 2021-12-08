@@ -17,7 +17,7 @@ body {
 
 .in-flex {
     flex: 1;
-    min-width: 500px;
+    min-width: 300px;
 }
 
 #text1 {
@@ -49,6 +49,6 @@ form {
 }
 
 .text01 {
-    font-size: 20px;
+    font-size: 30px;
     padding: 10px;
 }
